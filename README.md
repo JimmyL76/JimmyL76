@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi! I'm Jimmy
+
+- ⚡ I'm an electrical and computer engineering + business student at UT Austin
+- ⚙️ I'm working on integrated circuits, anything from architecture to RTL to VLSI
+- 🍎 I love to learn new things, so feel free to start a conversation
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jimmyliang0/)
 
 <!--
 **JimmyL76/JimmyL76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
