@@ -1,7 +1,7 @@
 ## Hi! I'm Jimmy
 
 - ⚡ I'm an electrical and computer engineering + business student at UT Austin
-- ⚙️ I'm working on integrated circuits, anything from architecture to RTL to VLSI
+- ⚙️ I'm working on integrated circuits, anything from architecture to RTL to VLSI/PD
 - 🍎 I love to learn new things, so feel free to start a conversation
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jimmyliang0/)
 
